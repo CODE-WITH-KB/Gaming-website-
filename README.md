@@ -1,2 +1,2 @@
 # Gaming-website-
-Gaming website , Using HTML , CSS  , &amp; JAVASCRIPT
+Gaming website , Using HTML , CSS  , &; JAVASCRIPT
